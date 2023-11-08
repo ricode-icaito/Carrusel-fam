@@ -1,0 +1,18 @@
+#modo{
+  width: 30px;
+  font-size: 30px;
+  margin: auto;
+  cursor: pointer;
+}
+
+.dark{
+  background: rgb(0, 0, 0);
+}
+
+.dark h1{
+  color: white;
+}
+
+.dark #modo{
+  color: #fff;
+}
